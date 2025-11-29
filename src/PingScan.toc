@@ -1,0 +1,8 @@
+## Interface: 120000, 110205
+## Title: Ping Scan
+## Notes: Ping scan your friends to get their attention.
+## Author: Verz
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\PingScan\Media\icon.blp
+
+PingScan.lua
