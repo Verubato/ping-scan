@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120100, 16001
 ## Title: Ping Scan
 ## Notes: Ping scan your friends to get their attention.
 ## Author: Verz
